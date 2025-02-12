@@ -7,6 +7,11 @@ I’m a 3rd-year Business Information Management student focusing on Health Info
 Let's get in touch! Connect with me on [LinkedIn](www.linkedin.com/in/jhaneenuy) :blush:
 
 
+## Student Involvement 👩‍🎓
+- 2024-25 Internal Vice President of Filipinx Undergraduate Scientist-Engineers In An Organized Network (FUSION) at UCI ⚙️👩‍🔬
+- I manage internal programs like Mentorship, Internship, and Family Systems to foster a supportive environment for the Filipinx STEM community, while strengthening our pillars of science/engineering, culture, academics, and professionalism.
+
+
 ## Myself Outside the Tech World 🌐
 - 🍴 Loves trying new food spots, expanding my taste buds one dish at a time
 - 🌉 Originally from the Bay Area 
