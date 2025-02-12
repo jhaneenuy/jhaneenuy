@@ -1,11 +1,18 @@
-# **Hello I am Jhaneen👋**
+# **Hello, I am Jhaneen! 👋**
 
 Welcome to my profile! 
 
-I’m a 3rd-year Business Information Management student focusing on Health Informatics, passionate about pursuing a career in full-stack healthcare IT. I’m excited to combine my love for coding with improving healthcare through digital solutions. I’m driven to keep learning and making an impact where technology meets healthcare. Outside of tech, I enjoy hiking and exploring new food spots, always eager to try something new :flight_departure: :world_map:
+I’m a 3rd-year Business Information Management student focusing on Health Informatics, passionate about pursuing a career in full-stack healthcare IT. I’m excited to combine my love for coding with improving healthcare through digital solutions. I’m driven to keep learning and making an impact where technology meets healthcare. 
 
 Let's get in touch! Connect with me on [LinkedIn](www.linkedin.com/in/jhaneenuy) :blush:
- 
+
+
+## Myself Outside the Tech World 🌐
+- 🍴 Loves trying new food spots, expanding my taste buds one dish at a time
+- 🌉 Originally from the Bay Area 
+- 🇵🇭 First Generation Filipina
+- ⛰️ Striving to be a hiking enthusiast  
+
 <!--
 **jhaneenuy/jhaneenuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
