@@ -1,5 +1,8 @@
 # **Hello, I am Jhaneen! 👋**
 
+[![Linkedin Badge](https://img.shields.io/badge/-jhaneenuy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhaneenuy/)](https://www.linkedin.com/in/jhaneenuy/)
+[![Gmail Badge](https://img.shields.io/badge/-jhaneenuy08-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jhaneenuy08@gmail.com)](mailto:jhaneenuy08@gmail.com)
+
 Welcome to my profile! 
 
 I’m a 3rd-year Business Information Management student focusing on Health Informatics, passionate about pursuing a career in full-stack healthcare IT. I’m excited to combine my love for coding with improving healthcare through digital solutions. I’m driven to keep learning and making an impact where technology meets healthcare. 
